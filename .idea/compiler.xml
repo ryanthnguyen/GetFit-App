@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/GetFit-CLI/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="GetFit-CLI" />
         <module name="GetFit" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GetFit" target="1.8" />
       <module name="GetFit-API" target="1.8" />
+      <module name="untitled" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

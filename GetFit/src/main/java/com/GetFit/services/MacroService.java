@@ -1,6 +1,13 @@
 package com.GetFit.services;
 
-public class MacroService {
-    //  we need to be able to create a macro in the database
+import com.GetFit.dal.Macros;
+import com.GetFit.dao.Macro;
 
+public class MacroService {
+    private Macros macros;
+    public Macro createMacroBasedOnFilters(){
+        Macro result = null;
+
+        return result;
+    }
 }

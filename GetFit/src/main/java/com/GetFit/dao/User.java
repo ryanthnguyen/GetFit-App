@@ -7,10 +7,11 @@ import lombok.NonNull;
 @Data
 @Builder(toBuilder = true)
 public class User {
-    @NonNull String id;
-    @NonNull String username;
-    @NonNull String password;
-    @NonNull ActivityStatus activityStatus;
+    @NonNull private String id;
+    @NonNull private String username;
+    @NonNull private String password;
+    @NonNull private String gender;
+    @NonNull private String activityStatus;
     int age;
     double height;
     double weight;

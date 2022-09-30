@@ -20,6 +20,8 @@
 'GetFit 1.0-SNAPSHOT API'
 -linkoffline
 'https://docs.oracle.com/javase/8/docs/api' '/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/javadoc-bundle-options'
+-stylesheetfile
+'/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/stylesheet.css'
 -use
 -version
 -windowtitle
@@ -139,17 +141,17 @@ com.GetFit.services
 /Users/ryanthnguyen/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar = 1661588103000
 /Users/ryanthnguyen/.m2/repository/org/modelmapper/modelmapper/3.0.0/modelmapper-3.0.0.jar = 1663444771000
 /Users/ryanthnguyen/workspace/GetFit-App/GetFit/src/main/java = 1661703785000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/generated-sources/annotations = 1663444791000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/constant-values.html = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/overview-tree.html = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/index.html = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/overview-frame.html = 1663444802000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/allclasses-noframe.html = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/index-all.html = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/deprecated-list.html = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/script.js = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/stylesheet.css = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/overview-summary.html = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/help-doc.html = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/allclasses-frame.html = 1663444803000
-/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/package-list = 1663444802000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/generated-sources/annotations = 1663649579000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/constant-values.html = 1663649591000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/overview-tree.html = 1663649592000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/index.html = 1663649592000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/overview-frame.html = 1663649591000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/allclasses-noframe.html = 1663649592000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/index-all.html = 1663649592000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/deprecated-list.html = 1663649592000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/script.js = 1663649592000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/stylesheet.css = 1663649589000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/overview-summary.html = 1663649592000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/help-doc.html = 1663649592000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/allclasses-frame.html = 1663649592000
+/Users/ryanthnguyen/workspace/GetFit-App/GetFit/target/apidocs/package-list = 1663649591000

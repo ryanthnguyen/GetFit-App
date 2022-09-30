@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GetFit/GetFit.iml" filepath="$PROJECT_DIR$/GetFit/GetFit.iml" />
       <module fileurl="file://$PROJECT_DIR$/GetFit-API/GetFit-API.iml" filepath="$PROJECT_DIR$/GetFit-API/GetFit-API.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GetFit-App.iml" filepath="$PROJECT_DIR$/.idea/GetFit-App.iml" />
     </modules>

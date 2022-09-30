@@ -1,9 +1,0 @@
-protein: 1
-carbs: 1
-fats: 1
-logging:
-  level: INFO
-  loggers:
-    com.GetFit-API: DEBUG
-
-
